@@ -1,4 +1,4 @@
-# Shalom Olorunfemi iPhone Diagnostics
+# Shalom Olorunfemi's iPhone Diagnostics
 ## OS Version:
 iPhone OS 16.6.1
 ## Current Country:
