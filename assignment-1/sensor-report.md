@@ -11,3 +11,5 @@ Ireland
 Vodafone IE
 ## Preferred User Interface Language:
 en-IE
+## User Interface Language:
+en-GB
